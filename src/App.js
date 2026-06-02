@@ -1,3 +1,4 @@
+// this is the main app file for NotifyMe - a smart reminder application built with React. It allows users to create, manage, and receive notifications for various types of reminders such as birthdays, anniversaries, meetings, and medication schedules. The app features a clean and intuitive interface with support for custom messages, automated emails, alarm notifications, and recurring reminders. Users can also upload custom alarm tones for a personalized experience. The app is designed to help users stay organized and never miss an important date or event again.
 import { useState, useEffect, useRef, useCallback } from "react";
 
 const STORAGE_KEY = "notifyme_reminders";
