@@ -1,3 +1,5 @@
+// NotifyMe - A React-based reminder app with alarm and email featuresgit g
+
 import { useState, useEffect, useRef, useCallback } from "react";
 
 const STORAGE_KEY = "notifyme_reminders";
